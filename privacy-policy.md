@@ -1,5 +1,6 @@
 PRIVACY POLICY – LASHNLOAD
 Effective Date: 16 April 2026
+
 This Privacy Policy describes how Kvedos ( "we", "us", or "our") collects, uses, and discloses your personal data when you use the LashNload mobile application and web portal (the "Service"). This policy is designed to comply with the General Data Protection Regulation (GDPR) and the Norwegian Personal Data Act.
 ________________________________________
 1. DATA CONTROLLER AND PROCESSOR
